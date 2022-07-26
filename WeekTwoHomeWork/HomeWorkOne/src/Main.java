@@ -18,7 +18,7 @@ public class Main {
         catagoryManager.listCategory(catagory2);
 
         System.out.println("Egitici");
-        
+
         teacherManager.teacherName(teacher);
     }
 }
