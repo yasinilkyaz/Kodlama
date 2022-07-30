@@ -1,7 +1,9 @@
-public class User {
-    public void add(){
+public  class User {
+    public void add() {
 
     }
+
+
     public void update(){
 
     }
